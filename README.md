@@ -13,3 +13,4 @@ cd jobo-demo
 ```
 docker compose up
 ```
+3. Navigate to http://127.0.0.1:8080/web
